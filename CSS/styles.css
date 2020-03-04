@@ -1,0 +1,201 @@
+/***********Seccion Generica**************/
+
+a{font-style: normal;
+text-decoration: none;
+color: #18BABD;
+}
+
+a:hover{
+color: black;}
+
+body {background-color: white;
+text-align: center;
+margin: 0px;
+padding:10px
+font-family: Aileron; calibri; sans-serif;}
+
+div {background-color: white;}
+
+Figure {padding-left: auto;
+  padding-right: auto;}
+
+h1 {font-family: Notera Personal Use Only; calibri; sans-serif;
+font-size: 625%;
+padding: auto;
+color: #18BABD;
+background-color: #A8F3F4}
+
+h2 {font-family: Aileron; calibri; sans-serif;
+color: #18BABD}
+
+h3 {font-family: Aileron; calibri; sans-serif;
+color: #18BABD;
+letter-spacing: 1px}
+
+header {font-family: Aileron; calibri; sans-serif;
+color: #18BABD}
+
+hr {border-style: none;
+height: 1px;
+width: 200px;
+border-top: 10px dotted #18BABD}
+
+p {font-family: serif;
+font-weight: 500;
+font-size: 1.2rem;
+letter-spacing: 1px}
+
+section {font-family: Aileron; calibri; sans-serif;}
+
+table {margin-left: auto;
+  margin-right: auto;
+}
+
+/*************ID Selector************************************/
+
+#FondoVerde {
+background-color: #A8F3F4}
+
+
+/*************Class Selector*********************************/
+
+              /*********Primera Seccion**************/
+
+.PrimeraDiv{
+background-color: #A8F3F4}
+
+.right{
+margin-right: 380px;
+position: right;}
+
+.P1{
+margin: 0px;
+padding:0px;
+font-size: 1.2rem;
+color: #18BABD;
+transform: scale(1, 1);
+font-weight: 500;
+font-family: Aileron; calibri; sans-serif;}
+
+.left{
+position: absolute;
+margin-left: }
+
+.Mountain{
+margin: auto;
+position:absolute;}
+
+                /*********Segunda Seccion**************/
+
+.Container{
+margin-right: auto;
+margin-left: auto;
+padding-left: 15px;
+padding-right: 15px;
+}
+
+.Container2{
+max-width: 870px;
+margin-left: auto;
+margin-right: auto;
+}
+
+.Section2{
+padding: 3em 0 8em;}
+
+.WhatIdo{
+font-size: 300%;
+color: #18BABD
+font}
+
+.Div1{
+background-color: white;
+margin: 1rem}
+
+.Div11{
+position: relative;
+padding-left: 15px;
+padding-right: 15px;}
+
+.Listen1{
+margin:0px;
+padding:0px;
+position: relative;}
+
+.imagen1{
+position: relative;
+margin-left: auto;
+margin-right: auto;}
+
+.Div2{
+background-color: white;
+margin: 1rem;}
+
+.Div22{
+position: relative;
+padding-left: 15px;
+padding-right: 15px;}
+
+.Listen2{
+margin: 0px;
+padding: 0px;
+position: relative;}
+
+.Imagen2{
+position: relative;
+margin-left: auto;
+margin-right: auto;}
+
+.Mail{
+font-size: .8rem;
+text-align: center;
+display: block;
+position: relative;
+padding: 16px 16px 16px 16px;
+margin: auto;
+font-weight: 400:400;
+border:0;
+font-family: "brandon-grotesque","Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+text-transform: uppercase;}
+
+.myButton {
+box-shadow: 0px 0px 0px -50px #3dc21b;
+background-color:#18BABD;
+border-radius:42px;
+display:inline-block;
+cursor:pointer;
+color:#ffffff;
+font-family:Arial;
+font-size:18px;
+font-weight:bold;
+padding:11px 20px;
+text-decoration:none;
+text-shadow:0px 0px 0px #2f6627;
+}
+.myButton:hover {
+background-color:#5cbf2a;
+}
+.myButton:active {
+position:relative;
+top:1px;
+}
+
+
+
+      /*********Footer**************/
+
+.Footer {
+  font-size: 62.5%;
+  background-color: #A8F3F4;
+  color: #18BABD;
+  align: center;
+padding-top: 1em;
+padding-bottom: 1em;}
+
+  .ContainerFooter{
+  background-color:  #A8F3F4;
+  }
+
+  .Sectionfoot{
+    background-color: #A8F3F4;
+  }
